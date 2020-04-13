@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img class="rounded shadow-xl" src="https://source.unsplash.com/random/720x400" />
+        <img class="rounded shadow-xl" src="https://www.pandasecurity.com/spain/mediacenter/src/uploads/2020/03/pandasecurity-coronavirus-pymes.jpg" />
       </div>
     </div>
   </section>
